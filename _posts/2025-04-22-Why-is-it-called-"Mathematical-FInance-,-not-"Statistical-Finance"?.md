@@ -1,4 +1,4 @@
-## Motivating Question
+## Why is it called "Mathematical FInance", not "Statistical Finance"?
 
 People seem to be saying that Statistics is more relevant to Quant Finance than Mathematics. The quantitative tools in quant finance seem to be based more on upper-year Stat topics (Stochastic process, Multivariate analysis, Time Series Analysis, Probability, Machine Learning) as opposed to upper-year maths (group theory, real analysis, topology). Except for ODE and PDE, which is not used as often then when this occupation first became a thing nowadays anyway.
 
