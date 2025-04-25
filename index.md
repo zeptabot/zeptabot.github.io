@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi, I’m Brad.
 
-Maybe say a some things about yourself.
+I’m a student at UofT.
 
-Or maybe what you plan to blog about.
+This is where I share what’s in my head.
