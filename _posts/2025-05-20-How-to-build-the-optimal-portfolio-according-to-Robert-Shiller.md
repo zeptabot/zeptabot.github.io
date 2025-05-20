@@ -1,6 +1,6 @@
-## How to build the optimal portfolio, according to Robert Shiller
+# How to build the optimal portfolio, according to Robert Shiller
 
-### Yale Financial Market Coursea Lesson 4 Notes
+## Yale Financial Market Coursea Lesson 4 Notes
 As individual investors, our primary focus should be on the overall mean return and variance of our entire portfolio, rather than the performance of any single asset. When evaluating an asset, we should consider how it impacts the risk and variance of our whole portfolio, which then helps us decide how much to invest in it. A fundamental principle in investing is diversification – avoiding "putting all your eggs in one basket" – as it helps reduce systematic risk.
 
 ### The World of Hedge Funds: High Stakes, High Risk
